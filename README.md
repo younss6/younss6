@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js | Vue.js | Tailwind**
 
-- 👨‍💻 All of my projects are available at [here in Github](here in Github)
+- 👨‍💻 All of my projects are available at [here in Github]
 
 - 📫 How to reach me **fantome71@outlook.com**
 
