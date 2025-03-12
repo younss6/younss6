@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ERP JD E from ORACLE**
 
-- 🌱 I’m currently learning **React.js | Vue.js | Tailwind**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [here in Github]
 
