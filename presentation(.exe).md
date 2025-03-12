@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes. B</h1>
-<h3 align="center">ProjectManager</h3>
+<h3 align="center">ERP Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younss6&label=Profile%20views&color=0e75b6&style=flat" alt="younss6" /> </p>
 
@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on **ERP JD E from ORACLE**
 
-- 🌱 I’m currently learning **React.js | Vue.js | Javascript**
+- 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [here in Github](here in Github)
+- 👨‍💻 All of my projects are available at [here in Github]
 
 - 📫 How to reach me **fantome71@outlook.com**
+
+- https://www.codedex.io/@Younss
 
 <h3 align="left">Connect with me:LinkedIn</h3>
 <p align="left">
