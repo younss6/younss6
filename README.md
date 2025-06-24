@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [here in Github]
 
-- 📫 How to reach me **fantome71@outlook.com**
+- 📫 How to reach me : **fantome71@outlook.com**
 
 - https://www.codedex.io/@Younss
 
