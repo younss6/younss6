@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as an **ERP Consultant**
 
-- 🌱 I’m currently learning **Python & Javascript**
+- 🌱 I’m currently learning **React.js, Tailwind.css, Python and Javascript**
 
 - 👨‍💻 All of my projects are available at [here in Github]
 
